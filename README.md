@@ -1,0 +1,2 @@
+# ermand-bot
+Dicsord bot!
